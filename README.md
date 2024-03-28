@@ -13,20 +13,24 @@
 
 <h3 align="center">I'm an expert at solving code issues - typically by hitting 'Ctrl+Z'.</h3>
 <br/>
+
 ```csharp
-namespace MyNamespace {
-  public static class Program {
-    public static void Main(string[] args) {
-      var dev = new Developer() {
-        FirstName = "Orkhan",
-        LastName = "Mamamadli",
-        Level = DeveloperLevel.JuniorMiddle
-      };
-      dev.Run();
-    }
-  }
+namespace MyNamespace 
+{ 
+    public static class Program 
+    { 
+        public static void Main(string[] args) 
+        { 
+            var dev = new Developer() 
+            { 
+                FirstName = "Orkhan", 
+                LastName = "Mamamadli", 
+                Level = DeveloperLevel.JuniorMiddle 
+            }; 
+            dev.Run(); 
+        } 
+    } 
 }
-</code></pre>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js" />
