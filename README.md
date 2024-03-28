@@ -13,7 +13,7 @@
 
 <h3 align="center">I'm an expert at solving code issues - typically by hitting 'Ctrl+Z'.</h3>
 
-<pre><code>
+<pre><code class="language-csharp">
 namespace MyNamespace {
   public static class Program {
     public static void Main(string[] args) {
