@@ -12,8 +12,8 @@
 </h1>
 
 <h3 align="center">I'm an expert at solving code issues - typically by hitting 'Ctrl+Z'.</h3>
-
-<pre><code class="language-csharp">
+<br/>
+```csharp
 namespace MyNamespace {
   public static class Program {
     public static void Main(string[] args) {
